@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kila638
-- 👀 I’m interested in data
-- 🌱 I’m currently learning machine learning, data analyst, data scientist
+- 👀 I’m interested in data enthusiast
+- 🌱 I’m currently learning machine learning, data understanding, Business Understanding.
 - 📫 How to reach me priskilabanjarnahor@gmail.com
 
 <!---
